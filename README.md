@@ -1,12 +1,12 @@
-# simple-website-with-blog
+# DailyJournal
 
 > A simple website with a blog
 
-`simple-website-with-blog` is a simple [Node.js](https://nodejs.org/) web application for static content that includes a blog.
+`A simple website with a blog` is a simple [Node.js](https://nodejs.org/) web application for static content that includes a blog.
 
 ## Goals
 
-- An easy way to create a simple, secure website with a blog
+- A node and JSON based website to post daily Journal
 - Support for text-based blog formats
 - Ordering of posts by publish date or content date
 - Simple post format that separates content and metadata
