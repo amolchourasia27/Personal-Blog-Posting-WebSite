@@ -17,13 +17,13 @@
 - `views\partials` Environment variables and ejs files used to control basic behavior
 - `views` Blog layout code shared by the website
 ### First look
-![sample]()
+![Home](https://github.com/amolchourasia27/Web-Devlopment-_personal_blog-Site/blob/main/Screenshot%202021-06-20%20134355.png)
 ### Posting section
-![sample2]()
+![Compose](https://github.com/amolchourasia27/Web-Devlopment-_personal_blog-Site/blob/main/Screenshot%202021-06-20%20134602.png)
 ### Home page after posting
-![sample3]()
-### Complete post looks like
-![sample4]()
+![Posted blogs](https://github.com/amolchourasia27/Web-Devlopment-_personal_blog-Site/blob/main/Screenshot%202021-06-20%20135352.png)
+### every post with unique page
+![post in a new page](https://github.com/amolchourasia27/Web-Devlopment-_personal_blog-Site/blob/main/Screenshot%202021-06-20%20134645.png)
 
 ## Instructions
 
