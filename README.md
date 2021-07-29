@@ -22,7 +22,7 @@
 ![Compose](https://github.com/amolchourasia27/Web-Devlopment-_personal_blog-Site/blob/main/Screenshot%202021-06-20%20134602.png)
 ### Home page after posting
 ![Posted blogs](https://github.com/amolchourasia27/Web-Devlopment-_personal_blog-Site/blob/main/Screenshot%202021-06-20%20135352.png)
-### every post with unique page
+### Every post with unique page
 ![post in a new page](https://github.com/amolchourasia27/Web-Devlopment-_personal_blog-Site/blob/main/Screenshot%202021-06-20%20134645.png)
 
 ## Instructions
